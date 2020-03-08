@@ -18,3 +18,5 @@ Basic flashcard app that lets the user make their own flash card.
 - [X] User can cancel out of the creation screen
 - [X] User can enter a new question and answer in the creation screen to then show it on the flashcard
 - [X] Push code to GitHub
+
+file:///Users/m/Downloads/Flashcardapp2-master/Walkthroughgif.gif
